@@ -1,0 +1,45 @@
+{
+  "ProjectName": "GoPlus",
+  "ProjectGuid": "a80d43fa-9b21-4a26-b36f-817e11141ed0",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.GoPlus",
+  "DisplayName": "GoPlus",
+  "Author": "",
+  "Description": "GoPlus",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{d46517aa-477d-4860-8c95-d2b735875102}",
+  "WP8ProductID": "{e3275d37-d911-480c-8620-b2141f2e1d7f}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.GoPlus",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
